@@ -12,7 +12,7 @@ The project analyzes electricity consumption patterns and generates daily, hourl
 - PySpark
 - SQLite
 - Matplotlib
-- Power BI
+
 
 ## Project Features
 - Electricity dataset generation
